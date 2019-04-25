@@ -1,6 +1,6 @@
 {
   "name": "@omadoyeabraham/get-safe",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Safely accesses nested object properties, and returns a default value in case of an error.",
   "main": "index.js",
   "repository": "omadoyeabraham/getSafe",
