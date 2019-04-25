@@ -1,12 +1,18 @@
 {
   "name": "@omadoyeabraham/get-safe",
   "version": "1.0.0",
-  "description": "",
+  "description": "Safely accesses nested object properties, and returns a default value in case of an error.",
   "main": "index.js",
+  "repository": "omadoyeabraham/getSafe",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "getSafe",
+    "get-safe",
+    "nested object",
+    "omadoyeabraham"
+  ],
+  "author": "Omadoye Abraham",
+  "license": "MIT"
 }
